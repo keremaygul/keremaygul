@@ -30,16 +30,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat&logo=devexpress&logoColor=white)
 ![SAP Crystal Reports](https://img.shields.io/badge/SAP_Crystal_Reports-0FAAFF?style=flat&logo=sap&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 📚 Library Management System
-A modern library management solution built with ASP.NET Core 8.0 and Clean Architecture principles. Features include book tracking, member management, and loan processing.
-[View Project](https://github.com/keremaygul/librarymanagement-netcore)
-
-### 🏢 Enterprise Resource Planning System
-A comprehensive ERP solution developed using .NET Framework, featuring modules for inventory management, HR, and financial reporting.
-[View Project](https://github.com/keremaygul/erp-project)
-
 ## 💡 What I Do
 
 - Design and develop scalable web applications
