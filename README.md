@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Kerem Aygül</h1>
-<h3 align="center">A passionate Full stack developer from Türkiye</h3>
+# Hi there! 👋 I'm Kerem Aygül
 
-- 🌱 I’m currently learning **React JS, .NET Core MVC & API**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-keremaygul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keremaygul)
 
-- 👨‍💻 All of my projects are available at [https://github.com/keremaygul?tab=repositories](https://github.com/keremaygul?tab=repositories)
+## About Me
+I'm a Full Stack .NET Developer passionate about crafting clean, efficient, and user-friendly applications. With a strong foundation in both backend and frontend development, I enjoy taking on complex challenges and turning them into elegant solutions.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/keremaygul/](https://www.linkedin.com/in/keremaygul/)
+When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keremaygul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremaygul" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Frameworks
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat&logo=devexpress&logoColor=white)
+![SAP Crystal Reports](https://img.shields.io/badge/SAP_Crystal_Reports-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 📚 Library Management System
+A modern library management solution built with ASP.NET Core 8.0 and Clean Architecture principles. Features include book tracking, member management, and loan processing.
+[View Project](https://github.com/keremaygul/librarymanagement-netcore)
+
+### 🏢 Enterprise Resource Planning System
+A comprehensive ERP solution developed using .NET Framework, featuring modules for inventory management, HR, and financial reporting.
+[View Project](https://github.com/keremaygul/erp-project)
+
+## 💡 What I Do
+
+- Design and develop scalable web applications
+- Create efficient database solutions
+- Build responsive and intuitive user interfaces
+- Implement reporting solutions using SAP Crystal Reports
+- Develop custom DevExpress components
+- Write clean, maintainable, and well-documented code
+
+## 🎯 Current Focus
+
+- Deepening my knowledge in microservices architecture
+- Exploring cloud technologies and Azure services
+- Contributing to open-source .NET projects
+- Learning React.js to expand my frontend capabilities
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremaygul&show_icons=true&theme=dark)
+
+## 🤝 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project or just have a tech chat!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keremaygul)
+
+---
+*"The only way to do great work is to love what you do." - Steve Jobs*
