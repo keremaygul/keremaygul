@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-keremaygul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keremaygul)
 
 ## About Me
-I'm a Full Stack .NET Developer passionate about crafting clean, efficient, and user-friendly applications. With a strong foundation in both backend and frontend development, I enjoy taking on complex challenges and turning them into elegant solutions.
+I'm a Full Stack Developer passionate about crafting clean, efficient, and user-friendly applications. With a strong foundation in both backend and frontend development, I enjoy taking on complex challenges and turning them into elegant solutions.
 
 I also have a keen interest in Python automation and scripting, where I develop tools to streamline workflows and increase productivity. My experience spans from web development to process automation, allowing me to provide comprehensive solutions across different platforms.
 
