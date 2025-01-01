@@ -5,6 +5,8 @@
 ## About Me
 I'm a Full Stack .NET Developer passionate about crafting clean, efficient, and user-friendly applications. With a strong foundation in both backend and frontend development, I enjoy taking on complex challenges and turning them into elegant solutions.
 
+I also have a keen interest in Python automation and scripting, where I develop tools to streamline workflows and increase productivity. My experience spans from web development to process automation, allowing me to provide comprehensive solutions across different platforms.
+
 When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
 
 ## 🛠 Tech Stack
@@ -25,6 +27,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools & Frameworks
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat&logo=devexpress&logoColor=white)
@@ -38,6 +41,8 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 - Implement reporting solutions using SAP Crystal Reports
 - Develop custom DevExpress components
 - Write clean, maintainable, and well-documented code
+- Create Python automation scripts and tools for workflow optimization
+- Develop data processing and analysis applications using Python
 
 ## 🎯 Current Focus
 
@@ -45,10 +50,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 - Exploring cloud technologies and Azure services
 - Contributing to open-source .NET projects
 - Learning React.js to expand my frontend capabilities
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremaygul&show_icons=true&theme=dark)
 
 ## 🤝 Let's Connect!
 
