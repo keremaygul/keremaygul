@@ -57,5 +57,3 @@ Feel free to reach out if you want to collaborate on a project or just have a te
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keremaygul)
 
----
-*"The only way to do great work is to love what you do." - Steve Jobs*
